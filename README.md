@@ -331,10 +331,3 @@ Potential improvements include:
 ClinicConnect was created as a **college project** to explore how a real-world appointment-booking problem could be addressed through a web application.
 
 The project also gave me experience working with modern web-development technologies and experimenting with AI-assisted software development using Bolt.new.
-
-## Repository
-
-Source code:
-
-https://github.com/navtej3108/clinicconnect
-
