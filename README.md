@@ -1,5 +1,6 @@
 # ClinicConnect
 https://clinicconnect-appoin-9t2u.bolt.host
+
 ClinicConnect is a college web development project for managing clinic appointments and connecting patients with doctors through a web-based interface.
 
 The project was created as a college project with the assistance of **Bolt.new (AI-powered development tool)**. I used Bolt.new to help generate the initial website structure, UI, and application code, and used the resulting project as a practical way to learn and build a working healthcare appointment platform.
